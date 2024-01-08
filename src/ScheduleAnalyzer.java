@@ -14,7 +14,7 @@ Print "Inavlid Input" if input is inavlid
 
 SAMPLE INPUT:
 A3
-LLLLSSZZZZSSLLLLLLLLSSZZZZSSLLLLLLLLSSZZ
+        LLLLSSZZZZSSLLLLLLLLSSZZZZSSLLLLLLLLSSZZ
 
 OUTPUT:
 A3
@@ -23,10 +23,7 @@ Wednesday: 4L 2Z
 Tuesday: 4L 2Z
 Friday: 4L 2Z
 Thrusday: 4L 2Z
- */
-
-import java.util.Scanner;
-
+*/
 public class ScheduleAnalyzer {
 
     public static void main(String[] args) {
