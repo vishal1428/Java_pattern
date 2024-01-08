@@ -1,3 +1,5 @@
+/* W3-p1 */
+
 import java.util.Scanner;
 
 public class TimeInterpreter {
