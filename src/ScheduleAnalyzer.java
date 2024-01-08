@@ -35,7 +35,7 @@ public class ScheduleAnalyzer {
         String batchName = scanner.nextLine();
 
         System.out.print("Enter the schedule string (40 characters): ");
-        String scheduleString = scanner.nextLine();
+        String scheduleString = scanner.nextLine().replaceAll("\\s","");
 
         if (scheduleString.length() != 40) {
             System.out.println("Invalid Input");
